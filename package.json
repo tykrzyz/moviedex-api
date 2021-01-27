@@ -1,5 +1,5 @@
 {
-  "name": "express-boilerplate",
+  "name": "moviedex-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -25,5 +25,8 @@
     "mocha": "^8.2.1",
     "nodemon": "^2.0.7",
     "supertest": "^6.1.1"
+  },
+  "engines": {
+    "node": "12.19.0"
   }
 }
